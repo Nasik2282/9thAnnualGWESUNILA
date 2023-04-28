@@ -27,7 +27,7 @@
   }
 }
 
-@media all and (max-width: 820px) {
+@media all and (max-width: 1000px) {
   .maskot-text,
   .maskot-btn {
     margin-left: 0px !important;
@@ -51,7 +51,7 @@
   }
 }
 
-@media all and (max-width: 393px) {
+@media all and (max-width: 500px) {
   .maskot-text,
   .maskot-btn {
     margin-left: 0px !important;
